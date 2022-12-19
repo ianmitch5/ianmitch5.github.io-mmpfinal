@@ -1,0 +1,25 @@
+body{
+    background-image: url(pics/starrynight.jpg);
+    background-color: #1c1629;
+    font-family: PHOSPHATE;
+    font-size: 50px;
+    color: #ffe99c;
+    text-align:center;
+}
+
+p{font-family: IMPACT; font-size: 30px; color: #FBFBEF;}
+a{font-family: Arial, Helvetica, sans-serif;font-size: 20px; color: #D0A9F5; text-decoration: m;}
+a:hover{color: orange;}
+ul{list-style: none;}
+
+img{border-style: double;
+    border-width: 15px;
+    border-color: #ffe99c;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+#eclipse{
+    width:1000px;
+}
